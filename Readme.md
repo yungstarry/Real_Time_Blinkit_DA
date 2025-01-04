@@ -84,9 +84,9 @@ The interactive dashboard was created in **Excel** and includes:
 ![Dashboard](images/dash.png)
 
 ### Pivot Table Design:
-![Pivot Table](images/pivot1.png)
-![Pivot Table](images/pivot2.png)
-![Pivot Table](images/pivot3.png)
+![Pivot Table](images\pivot1.png)
+![Pivot Table](images\pivot2.png)
+![Pivot Table](images\pivot3.png)
 
 ---
 
@@ -112,8 +112,8 @@ The interactive dashboard was created in **Excel** and includes:
 
 ### Additional Details:
 #### Requirements:
-![Requirements](images/req1.png)
-![Requirements](images/req2.png)
+![Requirements](images\req1.png)
+![Requirements](images\req2.png)
 
 #### File Information:
 - **Tools Used**: Excel (Pivot tables, charts, slicers, and conditional formatting).
