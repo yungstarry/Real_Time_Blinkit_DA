@@ -1,6 +1,6 @@
+# BlinkIT Grocery Data Analysis
 ---
 
-# BlinkIT Grocery Data Analysis
 
 ## 1. Title
 **BlinkIT Grocery Sales Analysis Dashboard**
